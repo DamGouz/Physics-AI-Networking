@@ -1,0 +1,17 @@
+﻿  Enemy.cpp
+  MazeGenerator.cpp
+MazeGenerator.cpp(221): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+MazeGenerator.cpp(226): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+  main.cpp
+main.cpp(259): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(284): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(329): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  247 of 2504 functions ( 9.9%) were compiled, the rest were copied from previous compilation.
+    95 functions were new in current compilation
+    163 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32.lib(glew.obj)' or at 'C:\Users\damgo\Downloads\GameTech_2017_C\Build\x64\Release\vc120.pdb'; linking object as if no debug info
+  Server Coursework.vcxproj -> C:\Users\damgo\Downloads\GameTech_2017_C\Build\x64\Release\Server Coursework.exe

@@ -1,0 +1,30 @@
+﻿  Camera.cpp
+  CubeRobot.cpp
+  Frustum.cpp
+  GameTimer.cpp
+  HeightMap.cpp
+  Keyboard.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MD5Anim.cpp
+  MD5FileData.cpp
+MD5FileData.cpp(253): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MD5Mesh.cpp
+  MD5Node.cpp
+  Mesh.cpp
+  Mouse.cpp
+  OBJMesh.cpp
+OBJMesh.cpp(207): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+OBJMesh.cpp(320): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+OBJMesh.cpp(324): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+OBJMesh.cpp(338): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+OBJMesh.cpp(342): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OGLRenderer.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RenderNode.cpp
+  Shader.cpp
+  Compiling...
+  Window.cpp
+  NCLDebug.cpp
+  nclgl.vcxproj -> C:\Users\damgo\Downloads\GameTech_2017_C\Build\x64\Release\nclgl.lib

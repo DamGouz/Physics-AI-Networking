@@ -1,0 +1,33 @@
+﻿  Net1_Client.cpp
+C:\Users\damgo\Downloads\GameTech_2017_C\Build\ncltech\SceneManager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+Net1_Client.cpp(164): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Net1_Client.cpp(165): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Net1_Client.cpp(192): warning C4305: 'argument': truncation from 'double' to 'float'
+Net1_Client.cpp(243): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(244): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(261): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(267): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(284): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(299): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(312): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(313): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Net1_Client.cpp(327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Net1_Client.cpp(399): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(402): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(404): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(410): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(411): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(414): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(422): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(425): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Net1_Client.cpp(429): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\damgo\Downloads\GameTech_2017_C\Build\ncltech\SceneManager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  352 of 3792 functions ( 9.3%) were compiled, the rest were copied from previous compilation.
+    95 functions were new in current compilation
+    140 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32.lib(glew.obj)' or at 'C:\Users\damgo\Downloads\GameTech_2017_C\Build\x64\Release\vc120.pdb'; linking object as if no debug info
+  Client Coursework.vcxproj -> C:\Users\damgo\Downloads\GameTech_2017_C\Build\x64\Release\Client Coursework.exe
